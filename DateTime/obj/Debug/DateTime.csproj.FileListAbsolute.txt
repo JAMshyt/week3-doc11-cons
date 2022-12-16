@@ -1,0 +1,29 @@
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe.config
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\Лабораторки\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe.config
+D:\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\Практика\Щербаков\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+D:\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\Практика\Щербаков\DateTime\DateTime\obj\Debug\DateTime.pdb
+E:\Практика 2\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe.config
+E:\Практика 2\Щербаков\DateTime\DateTime\obj\Debug\DateTime.exe
+E:\Практика 2\Щербаков\DateTime\DateTime\obj\Debug\DateTime.pdb
+E:\Практика 2\Щербаков\DateTime\DateTime\bin\Debug\DateTime.exe
+E:\Практика 2\Щербаков\DateTime\DateTime\bin\Debug\DateTime.pdb
+E:\Практика 2\Щербаков\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\bin\Debug\DateTime.exe.config
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\DateTime\DateTime\obj\Debug\DateTime.pdb
